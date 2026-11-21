@@ -449,6 +449,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.pickyourtech.com](https://www.pickyourtech.com/) : Catalog of open-source projects with categories and open-source SaaS alternatives.
 * [https://pageguard.org](https://pageguard.org) : Free website health scanner that checks any site for SEO issues, accessibility (WCAG/ADA), performance, and best practices. No signup required. :free:
 * [https://www.pixelateimage.co/](https://www.pixelateimage.co/) : Transform any photo into a retro 8 bit masterpiece or securely obscure sensitive details.
+* [https://pixelarthive.com/](https://pixelarthive.com/) : Free browser-local image-to-pixel-art conversion and pixel art upscaling. :free:
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
 * [https://puritytest.io](https://puritytest.io/) : Free online purity test and quiz-style entertainment — answer questions and get a score. No signup required. :free:
 * [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl) : It's the eternal battle between day and night, good and bad.
